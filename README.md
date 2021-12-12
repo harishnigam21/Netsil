@@ -1,0 +1,2 @@
+# Netsil
+This is my Entrepreneurship project; category of these project is "Fashion &amp; Beauty". So, I kept the name of this project as a 'Netsil'. My Aim to make this project for the both, users as a customer 's and a hairdresser. This website will help hairdressers or barbers of the shop to make their salon digitally or you can say that to do business online, also this will help the people as a customer of the salon to find a nearby salons, to known about the salon services and many more. This all thing will help our both the users to save their time.
